@@ -1,24 +1,19 @@
-Bike Sales Dashboard
-📌 Project Overview
+# Excel Bike Sales Dashboard
 
-This project analyzes bike sales data by customer demographics. Using filters on marital status, region, and education, it uncovers patterns in income, age, and commute influencing bike purchases.
+## 📌 Project Overview
+This project analyzes bike sales data using Excel to identify customer purchasing behavior based on demographics and commute distance.
 
-🛠 Tools Used
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Slicers
 
-Excel
+## 🔎 Analysis Performed
+- Sales analysis by gender
+- Income comparison by purchase decision
+- Age group purchasing trends
+- Commute distance impact on bike purchases
+- Regional sales distribution
 
-Pivot Tables
-
-Charts and Slicers
-
-📊 Key Insights
-
-Female customers have a significantly higher average income purchase than male customers.
-
-Older customers (compared to middle-aged) are less likely to buy a bike.
-
-Customers with shorter commutes (0-1 miles) purchase bikes more often.
-
-Regional trends show Europe with the highest bike purchase frequency.
-📊 Final Result
-The bike sales dashboard revealed key demographic trends, such as higher income purchases by females and regional differences in bike adoption.
+## 📊 Final Result
+The dataset was transformed into an interactive Excel dashboard that highlights key customer demographics and purchasing patterns.
